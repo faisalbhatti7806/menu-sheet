@@ -1,0 +1,61 @@
+.nav>a{
+    border: 1px solid rgb(151, 148, 148) ;
+    margin: 2px;
+    font-size: x-large;
+ }
+    .im>a{
+     border: 2px solid rgba(55, 61, 55, 0.692);
+     margin: 2px;
+     font-size: larger;
+  }
+.page5{
+ border: 2cm;
+ margin: 2px;
+ font-size: x-large;
+}
+  .page{
+text-align: center;
+background-color: rgba(11, 224, 11, 0.637);
+font-size: xx-large;
+font-weight: bold;
+  }
+  .tab{
+line-height: 1cm;
+font-weight: bold;
+}
+.tab6{
+ font-size: x-large;
+}
+.tab2 , .tab{
+ line-height: 1cm;
+ font-weight: bold;
+}
+.page3 , .page4{
+ background-color:  rgba(11, 224, 11, 0.637);
+ text-align: center;
+ font-size: xx-large;
+ font-weight: bold;
+}
+.tab3 , .tab4{
+ line-height: 1cm;
+ font-weight: bold;
+}
+.page6{
+ font-size: x-large;
+}
+.ro{
+ text-align: center;
+background-color: rgba(11, 224, 11, 0.637);
+font-size: xx-large;
+font-weight: bold;
+}
+.sob{
+ background-origin: border-box;
+ font-size: x-large;
+ border: 1px;
+}
+.top{
+ color: blue;
+ font-size: xx-large;
+ border: 1cm;
+}
